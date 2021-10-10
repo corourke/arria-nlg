@@ -5,15 +5,15 @@
   "settings": [
     {
       "name": {
-        "key": "group"
+        "key": "Arria Settings"
       },
       "settings": [
         {
           "name": {
-            "key": "setting"
+            "key": "Script ID"
           },
-          "key": "key1",
-          "type": "boolean"
+          "key": "arria-script-id",
+          "type": "text"
         }
       ]
     }

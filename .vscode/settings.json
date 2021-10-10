@@ -4,5 +4,7 @@
       "fileMatch": ["definition.json"],
       "url": "./node_modules/@incorta-org/component-sdk/definition.schema.json"
     }
-  ]
+  ],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
